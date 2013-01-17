@@ -1,0 +1,8 @@
+name:  dart_full_stack_example
+description:  A sample TodoMVC application
+
+dependencies:
+  args: any
+  logging: any
+  objectory:
+    git: https://github.com/vadimtsushko/objectory.git
